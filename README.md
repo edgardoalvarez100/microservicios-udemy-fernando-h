@@ -9,3 +9,8 @@
 5. Ejecutar `npm run start:dev`
 
 ## Prod
+
+1. Clonar el repositorio
+2. Instalar Dependencias
+3. copiar `.env` basdo en el `.env.template`
+4. Ejecutar `npm run start:prod`
